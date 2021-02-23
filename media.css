@@ -1,0 +1,54 @@
+.first_title {
+    margin-left: 550px;
+}
+.first {
+    margin-left: 100px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.second {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.second_title {
+    margin-left: 100px;
+}
+.row_one {
+    display: inline-block;
+}
+.third {
+    margin-right: 40px;
+}
+.third_title {
+    margin-left: 80px;
+}
+.row_two {
+    display: inline-block;
+}
+.fifth_title {
+    margin-left: 75px;
+}
+.fifth {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.sixth_title {
+    margin-left: 45px;
+}
+.sixth {
+    margin-right: 40px;
+}
+.seventh_title {
+    margin-left: 80px;
+}
+p {
+    margin-left: 450px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.logo {
+    width: 600px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
